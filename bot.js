@@ -63,7 +63,7 @@ This bot demonstrates many of the core features of Botkit:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-
+token=xoxb-25398954215-ywRsWVGhAWYTb1BcAEyTl9fQ
 if (!process.env.token) {
     console.log('Error: Specify token in environment');
     process.exit(1);
